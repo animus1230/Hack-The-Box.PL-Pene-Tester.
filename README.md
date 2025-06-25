@@ -1,4 +1,4 @@
-🔐 Kevin – przyszły pentester | 17 lat | e-mail: bibip0662@gmail.com
+🔐 Anonymous – przyszły pentester| e-mail: pikola93846@gmail.com
 
 Jestem ambitnym i samodzielnym uczniem, który od kilku tygodni intensywnie rozwija się w kierunku cyberbezpieczeństwa, a dokładnie pentestingu. Codziennie uczę się poprzez praktykę – wykonuję realne scenariusze ataków w bezpiecznych środowiskach, analizuję podatności, zdobywam flagi i rozwiązuję zadania na platformach takich jak TryHackMe czy Hack The Box.
 
@@ -24,4 +24,4 @@ Chcę zostać profesjonalnym pentesterem. Interesuje mnie realna praktyka, a nie
 
 Jestem gotowy, zmotywowany i pełen energii – szukam tylko odpowiedniego miejsca, gdzie mogę się rozwijać.
 
-📬 Kontakt: bibip0662@gmail.com
+📬 Kontakt: pikola93846@gmail.com
